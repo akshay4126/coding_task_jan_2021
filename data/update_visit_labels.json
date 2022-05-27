@@ -1,0 +1,621 @@
+[
+    {
+        "person_id": "person.1",
+        "visit_labels": [
+            {
+                "gcode": "u1554",
+                "label": "HOME"
+            },
+            {
+                "gcode": "u1557",
+                "label": "WORK"
+            },
+            {
+                "gcode": "4qr2j",
+                "label": "WORK"
+            },
+            {
+                "gcode": "4rh9e",
+                "label": "WORK"
+            },
+            {
+                "gcode": "u155k",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "6g3nn",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1555",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u141s",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "4rhpm",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "4rh0f",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "69y7p",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "4rhcb",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "6g3mc",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1456",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u15dq",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "4qr24",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "69y7q",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "69y3g",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u141u",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155s",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dm",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u154w",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u15ut",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u15us",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155m",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155c",
+                "label": "OTHERS"
+            }
+        ]
+    },
+    {
+        "person_id": "person.2",
+        "visit_labels": [
+            {
+                "gcode": "u155k7k2",
+                "label": "HOME"
+            },
+            {
+                "gcode": "u1557gxs",
+                "label": "WORK"
+            },
+            {
+                "gcode": "u1557cfr",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557cfx",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557cfw",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dkw8u",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u156j7bb",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557gxu",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khp1",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155hr7x",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khp5",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khp3",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557cfq",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k7k3",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k7d4",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557cvs",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k5pf",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u15d2t6f",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557f1b",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u156n18b",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557gje",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k7gg",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k76u",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dkkzg",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dkggc",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dkw26",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14duf43",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14duf49",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khn5",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k79t",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1513zz2",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1513zz0",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khk9",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557gxg",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557fny",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k1dg",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155kc22",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k7hj",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155s90e",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155s902",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u151t22z",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155hr7w",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dkfzs",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dkts5",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khhy",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dmm8g",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k7fk",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k79q",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k5pd",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k5mx",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k4d7",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557gpg",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k772",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u15159zv",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155hpkm",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k5mt",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k7gn",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k5tc",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khkt",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khqj",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14d032k",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dku0t",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dkggf",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14e268b",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155knj7",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155knp4",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k5x8",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khp4",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k79f",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155hvyk",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155hvh7",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u15577vu",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557cgr",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557fyx",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155kh6g",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khec",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khs3",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khs8",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khsk",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k79k",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1515xn9",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1555bfp",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1555bfs",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557cgp",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155kef4",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u156n151",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u156n14c",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557gr5",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557fkp",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557fss",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dkwj6",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dkw2d",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dkw8b",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u14dky9j",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u15t7cep",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557fnx",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u15mkxpc",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k7dd",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k5ez",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u156n1gt",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155s8bp",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155s901",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khjn",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k7k1",
+                "label": "OTHERS"
+            }
+        ]
+    },
+    {
+        "person_id": "person.3",
+        "visit_labels": [
+            {
+                "gcode": "u153z72",
+                "label": "HOME"
+            },
+            {
+                "gcode": "u1557cf",
+                "label": "WORK"
+            },
+            {
+                "gcode": "u155knq",
+                "label": "WORK"
+            },
+            {
+                "gcode": "u1557gx",
+                "label": "WORK"
+            },
+            {
+                "gcode": "u155knr",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u153z6b",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155khp",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557f5",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1547gu",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557gn",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u151qkb",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u156n87",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1537gd",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1555c0",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1555bf",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557cg",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1557f4",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1560vc",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u1537ge",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155k2r",
+                "label": "OTHERS"
+            },
+            {
+                "gcode": "u155hr3",
+                "label": "OTHERS"
+            }
+        ]
+    }
+]

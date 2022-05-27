@@ -1,0 +1,22 @@
+type Person {
+  id: ID!
+  person_id: String!
+}
+
+type Location {
+  id: ID!
+  latitude: Float!
+  longitude: Float!
+  gcode: String
+  level: Int
+}
+type Visit{
+  person: Person!
+  location: Location!
+  visitCount: Int
+  visitLabel: String
+}
+type VisitResult{
+  visit: Visit
+  message: String
+}

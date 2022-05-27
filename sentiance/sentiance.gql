@@ -1,0 +1,15 @@
+type Query {
+  hello: String!
+
+  person(id: ID!): Person
+  persons: [Person]
+
+  location(id: ID!): Location
+  locations(level:Int!): [Location]
+
+  personVisit(personId:ID!,lat:Float!,lon:Float!,level:Int = 7): VisitResult
+
+#  allVisits:[Visit]
+  sampleVisits(visitLabel:String):[Visit]
+
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "model": "visits.Person",
+    "fields": {
+      "person_id": "Person.1"
+    }
+  },
+  {
+    "model": "visits.Person",
+    "fields": {
+      "person_id": "Person.2"
+    }
+  },
+  {
+    "model": "visits.Person",
+    "fields": {
+      "person_id": "Person.3"
+    }
+  },
+  {
+    "model": "visits.Location",
+    "fields": {
+      "latitude": 48.8582611083984375,
+      "longitude": 2.2940826416015625,
+      "level": 7,
+      "gcode": "u09tunq"
+    }
+  },
+  {
+    "model": "visits.Location",
+    "fields": {
+      "latitude": 48.85839991271495819091796875,
+      "longitude": 2.29450039565563201904296875,
+      "level": 11,
+      "gcode": "u09tunquc9z"
+    }
+  }
+
+]
